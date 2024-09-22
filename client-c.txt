@@ -2,3 +2,7 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+set initial package count to 2
+while package count <50
+	print package count
+	package count = package count + 2
