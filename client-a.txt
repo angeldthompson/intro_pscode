@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+computer chooses random number between 1 and 10 
+prompt player to guess a number between 1 and 10
+if guessed number equals random number print you win 
+	else print sorry you are wrong try again, you have 2 more chances
+		prompt player to guess a number between 1 and 10
+if guessed number equals random number print you win 
+	else print sorry you are wrong try again, you have 1 more chance
+		prompt player to guess a number between 1 and 10
+if guessed number equals random number print you win 
+	else print sorry you lost, would you like to play again
