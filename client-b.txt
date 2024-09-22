@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+define north, south, east, and west directions
+set initial location of customer
+prompt user for what they're trying to find
+determine best path to location and guide customer
+while set location isn't customer location, output direction for customer to move
+once set location = customer location
+	print here is the product you was looking for
